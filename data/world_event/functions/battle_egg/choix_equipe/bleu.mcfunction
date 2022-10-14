@@ -1,0 +1,2 @@
+tellraw @a[distance=..3.7,tag=!BEbleu] {"text":"Vous avez rejoins l'équipe bleu !","bold":true,"underlined":true,"color":"dark_blue"}
+execute as @a[distance=..3.7,tag=!BEbleu] at @s run tag @s add BEbleu
