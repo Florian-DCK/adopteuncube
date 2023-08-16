@@ -1,0 +1,40 @@
+{
+    "type": "chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "sniffer_egg",
+                    "weight": 1
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "angler_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "snort_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "shelter_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "bone",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

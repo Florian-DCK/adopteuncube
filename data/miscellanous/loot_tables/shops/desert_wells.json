@@ -1,0 +1,28 @@
+{
+    "type": "chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "arms_up_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "brewer_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "bone",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
