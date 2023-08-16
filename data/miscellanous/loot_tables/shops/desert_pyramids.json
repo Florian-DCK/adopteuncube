@@ -1,0 +1,40 @@
+{
+    "type": "chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "prize_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "miner_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "archer_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "skull_pottery_sherd",
+                    "weight": 3
+                    
+                },
+                {
+                    "type": "item",
+                    "name": "bone",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
